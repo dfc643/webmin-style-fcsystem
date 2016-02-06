@@ -1,0 +1,6 @@
+desc=FC-SYSTEM
+longdesc=For FC-SYSTEM use only
+version=0.2.1
+depends=1.336 1.480 1.660 1.700
+webmin=1
+usermin=1
